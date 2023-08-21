@@ -20,13 +20,11 @@ const NavBar = () => {
                                 <Link className="nav-link" aria-current="page" to="/">Home</Link>
                             </li>
                             <li className="nav-item dropdown">
-                                <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <Link className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Services
-                                </a>
+                                </Link>
                                 <ul className="dropdown-menu">
-                                    <li><a className="dropdown-item" href="#">Our Services</a></li>
-                                    <li><a className="dropdown-item" href="#">Enorll Now</a></li>
-                                    <li><a className="dropdown-item" href="#">Contact Us</a></li>
+                                    <li><Link className="dropdown-item" to="/enroll">Enorll Now</Link></li>
                                 </ul>
                             </li>
                             <li className="nav-item"><Link className="nav-link" to="/technology">Technology</Link></li>

@@ -6,6 +6,8 @@ import News from './components/News';
 import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
 
+import Enroll from "./components/Enroll"
+
 const App = ()=> {
   const pageSize = 5;
   const apiKey = 'ac7244c1b76d4e829b1ad2830451fb6c';
@@ -21,6 +23,7 @@ const App = ()=> {
         progress={progress} 
       />
         <Switch>
+          <Route exact path="/enroll"><Enroll/></Route>
           <Route exact path="/"><News setProgress={setProgress} apiKey={apiKey} key="Home" pageSize={pageSize} country="us" category="technology"/></Route> 
           <Route exact path="/business"><News setProgress={setProgress} apiKey={apiKey} key="business" pageSize={pageSize} country="us" category="business"/></Route> 
           <Route exact path="/health"><News setProgress={setProgress} apiKey={apiKey} key="health" pageSize={pageSize} country="us" category="health"/></Route> 
