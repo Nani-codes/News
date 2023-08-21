@@ -11,7 +11,8 @@ const News = (props)=>{
     const [loading, setLoading] = useState(true)
     const [page, setPage] = useState(1)
     const [totalResults, setTotalResults] = useState(0)
-    
+    let {category} = props;
+    let {country} = props;
     const capitalizeFirstLetter = (string) => {
         return string.charAt(0).toUpperCase() + string.slice(1);
     } 
@@ -23,7 +24,7 @@ const News = (props)=>{
         // let data = await fetch(url);
         props.setProgress(30);
         // let parsedData = await data.json()
-        let parsedData = sample;
+        let {parsedData} = props;
         props.setProgress(70);
         setArticles(parsedData.articles)
         setTotalResults(parsedData.totalResults)
@@ -51,7 +52,7 @@ const News = (props)=>{
  
         return (
             <>
-                <h1 className="text-center" style={{ margin: '35px 0px', marginTop: '90px' }}>HowToAbroad - Top Trends in US</h1>
+                <h1 className="text-center" style={{ margin: '35px 0px', marginTop: '90px' }}>HowToAbroad - Top {category} Trends in {country}</h1>
                 {loading && <Spinner />}
                 <InfiniteScroll
                     dataLength={articles.length}

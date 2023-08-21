@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "CHIP Online Deutschland",
+    "title": "VW und Mercedes abgehängt: Das ist jetzt die beliebteste Automarke der Deutschen - CHIP - CHIP Online Deutschland",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy9NZXJjZWRlcy1CTVctdW5kLVZXLXNpbmQtbmljaHQtRGV1dHNjaGxhbmRzLWJlbGllYnRlc3RlLUF1dG9iYXVlcl8xODQ5MTM5OTUuaHRtbNIBdGh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy9NZXJjZWRlcy1CTVctdW5kLVZXLXNpbmQtbmljaHQtRGV1dHNjaGxhbmRzLWJlbGllYnRlc3RlLUF1dG9iYXVlcl8xODQ5MTM5OTUuaHRtbD9sYXlvdXQ9YW1w?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-21T03:38:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "CHIP Online Deutschland",
+    "title": "Nach über 50 Jahren: Nächster deutscher Traditions-Hersteller meldet Insolvenz an - CHIP Online Deutschland",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy9UcmFkaXRpb25zcmVpY2hlci1IZXJzdGVsbGVyLW11c3MtbmFjaC01MC1KYWhyZW4taW4tZGllLUluc29sdmVuel8xODQ5MTQwMDcuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-21T03:31:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "hna.de",
+    "title": "Wer nicht reagiert, könnte bald sein Google-Konto verlieren - hna.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmhuYS5kZS92ZXJicmF1Y2hlci9mcmlzdC1kZXplbWJlci15b3V0dWJlLW1haWwtbmV3cy1nb29nbGUta29udG8tdmVybGllcmVuLWxvZXNjaGVuLWluYWt0aXYtZGF0ZW4tOTI0NjU3MDkuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-21T03:05:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Saarbrücker Zeitung",
+    "title": "Staubsauger-Test 2023 mit Miele und Bosch: Diese Modelle überzeugen - Saarbrücker Zeitung",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5zYWFyYnJ1ZWNrZXItemVpdHVuZy5kZS9zei1zcGV6aWFsL3ZlcmJyYXVjaGVyL3N0YXVic2F1Z2VyLXRlc3QtMjAyMy1rb2VubmVuLW1pZWxlLXVuZC1ib3NjaC11ZWJlcnpldWdlbi12MjBfYWlkLTk0ODAyNjYz0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-21T00:37:11Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "tz.de",
+    "title": "„Chicken“ bei McDonalds besteht nicht mal zur Hälfte aus Hühnchen: Insider decken Tricks auf - tz.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnR6LmRlL3ZlcmJyYXVjaGVyL21jbnVnZ2V0cy1udWdnZXRzLWRlY2t0LWF1Zi1pbnNpZGVyLWhhZWhuY2hlbi1mbGVpc2NoLWFudGVpbC1tYy1kb25hbGRzLWNoaWNrZW4tOTI0NjM2NTIuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T23:39:45Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Merkur.de",
+    "title": "Dringender Käse-Rückruf bei Lidl: Gefährliche Bakterien nachgewiesen - Merkur.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5tZXJrdXIuZGUvdmVyYnJhdWNoZXIvcnVlY2tydWYtbGlkbC1idW5kZXNhbXQtdmVyYnJhdWNoZXJzY2h1dHotbGlzdGVyaWVuLWxlYmVuc21pdHRlbC1nZWZhZWhybGljaC1iYWt0ZXJpZW4ta2Flc2UtOTI0NjI1OTYuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T23:12:11Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "finanzen.net",
+    "title": "Regeneron-Aktie: Bayer-Partner Regeneron erhält US-Zulassung für höher dosierte Version von Eylea - finanzen.net",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5maW5hbnplbi5uZXQvbmFjaHJpY2h0L2FrdGllbi9hdWdlbm1lZGlrYW1lbnQtcmVnZW5lcm9uLWFrdGllLWJheWVyLXBhcnRuZXItcmVnZW5lcm9uLWVyaGFlbHQtdXMtenVsYXNzdW5nLWZ1ZXItaG9laGVyLWRvc2llcnRlLXZlcnNpb24tdm9uLWV5bGVhLTEyNzU0MTQ00gGZAWh0dHBzOi8vd3d3LmZpbmFuemVuLm5ldC9hbXAvYXVnZW5tZWRpa2FtZW50LXJlZ2VuZXJvbi1ha3RpZS1iYXllci1wYXJ0bmVyLXJlZ2VuZXJvbi1lcmhhZWx0LXVzLXp1bGFzc3VuZy1mdWVyLWhvZWhlci1kb3NpZXJ0ZS12ZXJzaW9uLXZvbi1leWxlYS0xMjc1NDE0NA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T19:12:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "hna.de",
+    "title": "Cappuccino-Krach in Italien: Kleiner Preis-Aufschlag sorgt für große Wut – „Problem ist nicht das Geld“ - hna.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmhuYS5kZS93ZWx0L29zdGlhLWl0YWxpZW4tY2FwcHVjY2luby1wcmVpcy1hdWZzY2hsYWctbWlsY2gtc2NoYXVtLW9zdGlhLWJhci1rYWZmZWUtOTI0Njk4NzUuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T19:06:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Augsburger Allgemeine",
+    "title": "Babenhausen: Seniorin stirbt nach Badeunfall in Babenhausen - Augsburger Allgemeine",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmF1Z3NidXJnZXItYWxsZ2VtZWluZS5kZS9pbGxlcnRpc3Nlbi9iYWJlbmhhdXNlbi1zZW5pb3Jpbi1zdGlyYnQtbmFjaC1iYWRldW5mYWxsLWluLWJhYmVuaGF1c2VuLWlkNjc1ODQ0ODYuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T18:32:48Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Notebookcheck.com",
+    "title": "Acura ZDX: Elektro-SUV enthüllt GM-Technik, Bang & Olufsen Audio, Type S mit 500 PS Allrad und Brembo - Notebookcheck.com",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLmNvbS9BY3VyYS1aRFgtRWxla3Ryby1TVVYtZW50aHVlbGx0LUdNLVRlY2huaWstQmFuZy1PbHVmc2VuLUF1ZGlvLVR5cGUtUy1taXQtNTAwLVBTLUFsbHJhZC11bmQtQnJlbWJvLjc0MjUwNS4wLmh0bWzSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T18:30:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Notebookcheck.com",
+    "title": "Oukitel: Neuer Zwischenspeicher für Balkonkraftwerke startet in Kürze mit USV-Funktion und bis zu 16 kWh - Notebookcheck.com",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLmNvbS9PdWtpdGVsLU5ldWVyLVp3aXNjaGVuc3BlaWNoZXItZnVlci1CYWxrb25rcmFmdHdlcmtlLXN0YXJ0ZXQtaW4tS3VlcnplLW1pdC1VU1YtRnVua3Rpb24tdW5kLWJpcy16dS0xNi1rV2guNzQyMjQ5LjAuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T18:00:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Main-Post",
+    "title": "Über 400 Oldtimer in der Altstadt von Gerolzhofen: \"Geo Classics\" enden mit Teilnehmerrekord – Viele Fotos - Main-Post",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5tYWlucG9zdC5kZS9yZWdpb25hbC9zY2h3ZWluZnVydC9nZW8tY2xhc3NpY3MtZW5kZW4tbWl0LXRlaWxuZWhtZXJyZWtvcmQtdmllbGUtZm90b3Mtdm9uLXVlYmVyLTQwMC1vbGR0aW1lcm4taW4tZGVyLWFsdHN0YWR0LXZvbi1nZXJvbHpob2Zlbi1hcnQtMTEyMTU5ODbSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T17:53:47Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Notebookcheck.com",
+    "title": "Vollgefedertes E-Bike im Deal: Giant Stance E+ 1 Pro E-MTB um 700€ rabattiert - Notebookcheck.com",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2suY29tL1ZvbGxnZWZlZGVydGVzLUUtQmlrZS1pbS1EZWFsLUdpYW50LVN0YW5jZS1FLTEtUHJvLUUtTVRCLXVtLTcwMEVVUi1yYWJhdHRpZXJ0Ljc0MjUyMC4wLmh0bWzSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T17:39:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "fr.de",
+    "title": "E10 und Diesel werden teurer – und es droht der nächste Spritpreis-Anstieg - fr.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZyLmRlL3ZlcmJyYXVjaGVyL2RpZXNlbC10ZXVyZXItZXhwZXJ0ZW4tc3ByaXRwcmVpcy1wcm9nbm9zZS1iZW56aW4tdGFua3N0ZWxsZS1hZGFjLWUxMC05MjQ2NDgyNy5odG1s0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T17:13:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Merkur.de",
+    "title": "Mitten in der Urlaubssaison: Sprit-Preis in Österreich explodiert - Merkur.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm1lcmt1ci5kZS92ZXJicmF1Y2hlci9iZW56aW4tZGllc2VsLXRhbmtlbi1wcmVpc2UtZGV1dHNjaGxhbmQtdXJsYXViLWF1dG9iYWhuLW9lc3RlcnJlaWNoLXNwcml0LXpyLTkyNDY2NDM1Lmh0bWzSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T17:05:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Handelsblatt ",
+    "title": "Wachstumsschwäche: Sorgen um Chinas Wirtschaft: Woher die Krise kommt, was sie für die Welt bedeutet - Handelsblatt ",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmhhbmRlbHNibGF0dC5jb20vcG9saXRpay9pbnRlcm5hdGlvbmFsL2tvbmp1bmt0dXJrcmlzZS13aWUtZXMtbWl0LWNoaW5hcy13aXJ0c2NoYWZ0LWpldHp0LXdlaXRlcmdlaHQvMjkzNDIxNjAuaHRtbNIBf2h0dHBzOi8vYW1wMi5oYW5kZWxzYmxhdHQuY29tL3BvbGl0aWsvaW50ZXJuYXRpb25hbC9rb25qdW5rdHVya3Jpc2Utd2llLWVzLW1pdC1jaGluYXMtd2lydHNjaGFmdC1qZXR6dC13ZWl0ZXJnZWh0LzI5MzQyMTYwLmh0bWw?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T16:20:12Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "heise online",
+    "title": "Vodafone erreicht 90-Prozent-Marke bei Abdeckung mit Funkstandard 5G - heise online",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmhlaXNlLmRlL25ld3MvVm9kYWZvbmUtZXJyZWljaHQtOTAtUHJvemVudC1NYXJrZS1iZWktQWJkZWNrdW5nLW1pdC1GdW5rc3RhbmRhcmQtNUctOTI2ODQ0OC5odG1s0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T15:10:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "t-online - Finanzen",
+    "title": "C&A: Modekette baut um – so viele deutsche Filialen mussten schließen - t-online - Finanzen",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50LW9ubGluZS5kZS9maW5hbnplbi9ha3R1ZWxsZXMvd2lydHNjaGFmdC9pZF8xMDAyMjgzMTgvYy1hLW1vZGVrZXR0ZS1iYXV0LXVtLXNvLXZpZWxlLWRldXRzY2hlLWZpbGlhbGVuLW11c3N0ZW4tc2NobGllc3Nlbi0uaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T15:00:04Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "kreiszeitung.de",
+    "title": "Bild von Edeka-Lieferung sorgt für Empörung: „Wer gibt eigentlich die Baugenehmigung für so einen Markt?“ - kreiszeitung.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5rcmVpc3plaXR1bmcuZGUvdmVyYnJhdWNoZXIvZWlnZW50bGljaC1kaWUtYmF1Z2VuZWhtaWd1bmctZWRla2EtbGFzdGVyLWxrdy1yZWRkaXQtcGFya2VuLWxhZGVuLXNvcmd0LWZ1ZXItZW1wb2VydW5nLXdlci1naWJ0LXpyLTkyNDY1MTM5Lmh0bWzSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T14:52:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "CHIP Online Deutschland",
+    "title": "32 Teile für unter 10 Euro: Schrauberset von Bosch lachhaft günstig - CHIP Online Deutschland",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy8zMi1UZWlsZS1mdWVyLXVudGVyLTEwLUV1cm8tU2NocmF1YmVyc2V0LXZvbi1Cb3NjaC1sYWNoaGFmdC1ndWVuc3RpZ18xODQ5MTI5MTguaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-08-20T14:33:10Z",
+    "content": null
+    }
+    ]
+    }
