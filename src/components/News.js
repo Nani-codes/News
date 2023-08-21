@@ -4,7 +4,6 @@ import NewsItem from './NewsItem'
 import Spinner from './Spinner';
 import PropTypes from 'prop-types'
 import InfiniteScroll from "react-infinite-scroll-component";
-import sample from "./sample.json"
 
 const News = (props)=>{
     const [articles, setArticles] = useState([])
