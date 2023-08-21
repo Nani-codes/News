@@ -25,6 +25,7 @@ const NavBar = () => {
                                 </Link>
                                 <ul className="dropdown-menu">
                                     <li><Link className="dropdown-item" to="/enroll">Enorll Now</Link></li>
+                                    <li><Link className="dropdown-item" to="/enroll">Contact Us</Link></li>
                                 </ul>
                             </li>
                             <li className="nav-item"><Link className="nav-link" to="/technology">Technology</Link></li>

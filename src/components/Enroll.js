@@ -7,14 +7,14 @@ export default function Enroll() {
     <form className="row mar needs-validation" >
     <div className="col-md-4 position-relative ">
         <label htmlFor="validationTooltip01" className="form-label">First name</label>
-        <input type="text" className="form-control" id="validationTooltip01" value="Mark" required/>
+        <input type="text" className="form-control" id="validationTooltip01"  required/>
         <div className="valid-tooltip">
         Looks good!
         </div>
     </div>
     <div className="col-md-4 position-relative">
         <label htmlFor="validationTooltip02" className="form-label">Last name</label>
-        <input type="text" className="form-control" id="validationTooltip02" value="Otto" required/>
+        <input type="text" className="form-control" id="validationTooltip02"  required/>
         <div className="valid-tooltip">
         Looks good!
         </div>
