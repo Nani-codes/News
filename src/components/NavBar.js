@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 import image from "./logo.png"
-import enroll from "./enroll"
+
 
 
 const NavBar = () => {
@@ -21,17 +21,20 @@ const NavBar = () => {
                             </li>
                             <li className="nav-item dropdown">
                                 <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Dropdown
+                                    Services
                                 </a>
-                                <ul class="dropdown-menu">
-                                    {/* <li><a className="dropdown-item" href="#">Services</a></li> */}
-                                    <li><Link className="dropdown-item" to="/enroll">Enroll</Link></li>
+                                <ul className="dropdown-menu">
+                                    <li><a className="dropdown-item" href="#">Our Services</a></li>
+                                    <li><a className="dropdown-item" href="#">Enorll Now</a></li>
+                                    <li><a className="dropdown-item" href="#">Contact Us</a></li>
                                 </ul>
                             </li>
                             <li className="nav-item"><Link className="nav-link" to="/technology">Technology</Link></li>
+                            <li className="nav-item"><Link className="nav-link" to="/science">Science</Link></li>
                             <li className="nav-item"><Link className="nav-link" to="/business">Business</Link></li>
                             <li className="nav-item"><Link className="nav-link" to="/health">Health</Link></li>
-                            <li className="nav-item"><Link className="nav-link" to="/science">Science</Link></li>
+                            
+                            
                         </ul>
                     </div>
                 </div>
