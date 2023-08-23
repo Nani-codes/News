@@ -1,266 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 69,
+    "totalResults": 68,
     "articles": [
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "CHIP Online Deutschland",
-    "title": "VW und Mercedes abgehängt: Das ist jetzt die beliebteste Automarke der Deutschen - CHIP - CHIP Online Deutschland",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy9NZXJjZWRlcy1CTVctdW5kLVZXLXNpbmQtbmljaHQtRGV1dHNjaGxhbmRzLWJlbGllYnRlc3RlLUF1dG9iYXVlcl8xODQ5MTM5OTUuaHRtbNIBdGh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy9NZXJjZWRlcy1CTVctdW5kLVZXLXNpbmQtbmljaHQtRGV1dHNjaGxhbmRzLWJlbGllYnRlc3RlLUF1dG9iYXVlcl8xODQ5MTM5OTUuaHRtbD9sYXlvdXQ9YW1w?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-21T03:38:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "CHIP Online Deutschland",
-    "title": "Nach über 50 Jahren: Nächster deutscher Traditions-Hersteller meldet Insolvenz an - CHIP Online Deutschland",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy9UcmFkaXRpb25zcmVpY2hlci1IZXJzdGVsbGVyLW11c3MtbmFjaC01MC1KYWhyZW4taW4tZGllLUluc29sdmVuel8xODQ5MTQwMDcuaHRtbNIBAA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-21T03:31:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "hna.de",
-    "title": "Wer nicht reagiert, könnte bald sein Google-Konto verlieren - hna.de",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmhuYS5kZS92ZXJicmF1Y2hlci9mcmlzdC1kZXplbWJlci15b3V0dWJlLW1haWwtbmV3cy1nb29nbGUta29udG8tdmVybGllcmVuLWxvZXNjaGVuLWluYWt0aXYtZGF0ZW4tOTI0NjU3MDkuaHRtbNIBAA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-21T03:05:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Saarbrücker Zeitung",
-    "title": "Staubsauger-Test 2023 mit Miele und Bosch: Diese Modelle überzeugen - Saarbrücker Zeitung",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5zYWFyYnJ1ZWNrZXItemVpdHVuZy5kZS9zei1zcGV6aWFsL3ZlcmJyYXVjaGVyL3N0YXVic2F1Z2VyLXRlc3QtMjAyMy1rb2VubmVuLW1pZWxlLXVuZC1ib3NjaC11ZWJlcnpldWdlbi12MjBfYWlkLTk0ODAyNjYz0gEA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-21T00:37:11Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "tz.de",
-    "title": "„Chicken“ bei McDonalds besteht nicht mal zur Hälfte aus Hühnchen: Insider decken Tricks auf - tz.de",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnR6LmRlL3ZlcmJyYXVjaGVyL21jbnVnZ2V0cy1udWdnZXRzLWRlY2t0LWF1Zi1pbnNpZGVyLWhhZWhuY2hlbi1mbGVpc2NoLWFudGVpbC1tYy1kb25hbGRzLWNoaWNrZW4tOTI0NjM2NTIuaHRtbNIBAA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T23:39:45Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Merkur.de",
-    "title": "Dringender Käse-Rückruf bei Lidl: Gefährliche Bakterien nachgewiesen - Merkur.de",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5tZXJrdXIuZGUvdmVyYnJhdWNoZXIvcnVlY2tydWYtbGlkbC1idW5kZXNhbXQtdmVyYnJhdWNoZXJzY2h1dHotbGlzdGVyaWVuLWxlYmVuc21pdHRlbC1nZWZhZWhybGljaC1iYWt0ZXJpZW4ta2Flc2UtOTI0NjI1OTYuaHRtbNIBAA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T23:12:11Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "finanzen.net",
-    "title": "Regeneron-Aktie: Bayer-Partner Regeneron erhält US-Zulassung für höher dosierte Version von Eylea - finanzen.net",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5maW5hbnplbi5uZXQvbmFjaHJpY2h0L2FrdGllbi9hdWdlbm1lZGlrYW1lbnQtcmVnZW5lcm9uLWFrdGllLWJheWVyLXBhcnRuZXItcmVnZW5lcm9uLWVyaGFlbHQtdXMtenVsYXNzdW5nLWZ1ZXItaG9laGVyLWRvc2llcnRlLXZlcnNpb24tdm9uLWV5bGVhLTEyNzU0MTQ00gGZAWh0dHBzOi8vd3d3LmZpbmFuemVuLm5ldC9hbXAvYXVnZW5tZWRpa2FtZW50LXJlZ2VuZXJvbi1ha3RpZS1iYXllci1wYXJ0bmVyLXJlZ2VuZXJvbi1lcmhhZWx0LXVzLXp1bGFzc3VuZy1mdWVyLWhvZWhlci1kb3NpZXJ0ZS12ZXJzaW9uLXZvbi1leWxlYS0xMjc1NDE0NA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T19:12:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "hna.de",
-    "title": "Cappuccino-Krach in Italien: Kleiner Preis-Aufschlag sorgt für große Wut – „Problem ist nicht das Geld“ - hna.de",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmhuYS5kZS93ZWx0L29zdGlhLWl0YWxpZW4tY2FwcHVjY2luby1wcmVpcy1hdWZzY2hsYWctbWlsY2gtc2NoYXVtLW9zdGlhLWJhci1rYWZmZWUtOTI0Njk4NzUuaHRtbNIBAA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T19:06:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Augsburger Allgemeine",
-    "title": "Babenhausen: Seniorin stirbt nach Badeunfall in Babenhausen - Augsburger Allgemeine",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmF1Z3NidXJnZXItYWxsZ2VtZWluZS5kZS9pbGxlcnRpc3Nlbi9iYWJlbmhhdXNlbi1zZW5pb3Jpbi1zdGlyYnQtbmFjaC1iYWRldW5mYWxsLWluLWJhYmVuaGF1c2VuLWlkNjc1ODQ0ODYuaHRtbNIBAA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T18:32:48Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Notebookcheck.com",
-    "title": "Acura ZDX: Elektro-SUV enthüllt GM-Technik, Bang & Olufsen Audio, Type S mit 500 PS Allrad und Brembo - Notebookcheck.com",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLmNvbS9BY3VyYS1aRFgtRWxla3Ryby1TVVYtZW50aHVlbGx0LUdNLVRlY2huaWstQmFuZy1PbHVmc2VuLUF1ZGlvLVR5cGUtUy1taXQtNTAwLVBTLUFsbHJhZC11bmQtQnJlbWJvLjc0MjUwNS4wLmh0bWzSAQA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T18:30:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Notebookcheck.com",
-    "title": "Oukitel: Neuer Zwischenspeicher für Balkonkraftwerke startet in Kürze mit USV-Funktion und bis zu 16 kWh - Notebookcheck.com",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLmNvbS9PdWtpdGVsLU5ldWVyLVp3aXNjaGVuc3BlaWNoZXItZnVlci1CYWxrb25rcmFmdHdlcmtlLXN0YXJ0ZXQtaW4tS3VlcnplLW1pdC1VU1YtRnVua3Rpb24tdW5kLWJpcy16dS0xNi1rV2guNzQyMjQ5LjAuaHRtbNIBAA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T18:00:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Main-Post",
-    "title": "Über 400 Oldtimer in der Altstadt von Gerolzhofen: \"Geo Classics\" enden mit Teilnehmerrekord – Viele Fotos - Main-Post",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5tYWlucG9zdC5kZS9yZWdpb25hbC9zY2h3ZWluZnVydC9nZW8tY2xhc3NpY3MtZW5kZW4tbWl0LXRlaWxuZWhtZXJyZWtvcmQtdmllbGUtZm90b3Mtdm9uLXVlYmVyLTQwMC1vbGR0aW1lcm4taW4tZGVyLWFsdHN0YWR0LXZvbi1nZXJvbHpob2Zlbi1hcnQtMTEyMTU5ODbSAQA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T17:53:47Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Notebookcheck.com",
-    "title": "Vollgefedertes E-Bike im Deal: Giant Stance E+ 1 Pro E-MTB um 700€ rabattiert - Notebookcheck.com",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2suY29tL1ZvbGxnZWZlZGVydGVzLUUtQmlrZS1pbS1EZWFsLUdpYW50LVN0YW5jZS1FLTEtUHJvLUUtTVRCLXVtLTcwMEVVUi1yYWJhdHRpZXJ0Ljc0MjUyMC4wLmh0bWzSAQA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T17:39:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "fr.de",
-    "title": "E10 und Diesel werden teurer – und es droht der nächste Spritpreis-Anstieg - fr.de",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZyLmRlL3ZlcmJyYXVjaGVyL2RpZXNlbC10ZXVyZXItZXhwZXJ0ZW4tc3ByaXRwcmVpcy1wcm9nbm9zZS1iZW56aW4tdGFua3N0ZWxsZS1hZGFjLWUxMC05MjQ2NDgyNy5odG1s0gEA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T17:13:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Merkur.de",
-    "title": "Mitten in der Urlaubssaison: Sprit-Preis in Österreich explodiert - Merkur.de",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm1lcmt1ci5kZS92ZXJicmF1Y2hlci9iZW56aW4tZGllc2VsLXRhbmtlbi1wcmVpc2UtZGV1dHNjaGxhbmQtdXJsYXViLWF1dG9iYWhuLW9lc3RlcnJlaWNoLXNwcml0LXpyLTkyNDY2NDM1Lmh0bWzSAQA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T17:05:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Handelsblatt ",
-    "title": "Wachstumsschwäche: Sorgen um Chinas Wirtschaft: Woher die Krise kommt, was sie für die Welt bedeutet - Handelsblatt ",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmhhbmRlbHNibGF0dC5jb20vcG9saXRpay9pbnRlcm5hdGlvbmFsL2tvbmp1bmt0dXJrcmlzZS13aWUtZXMtbWl0LWNoaW5hcy13aXJ0c2NoYWZ0LWpldHp0LXdlaXRlcmdlaHQvMjkzNDIxNjAuaHRtbNIBf2h0dHBzOi8vYW1wMi5oYW5kZWxzYmxhdHQuY29tL3BvbGl0aWsvaW50ZXJuYXRpb25hbC9rb25qdW5rdHVya3Jpc2Utd2llLWVzLW1pdC1jaGluYXMtd2lydHNjaGFmdC1qZXR6dC13ZWl0ZXJnZWh0LzI5MzQyMTYwLmh0bWw?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T16:20:12Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "heise online",
-    "title": "Vodafone erreicht 90-Prozent-Marke bei Abdeckung mit Funkstandard 5G - heise online",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmhlaXNlLmRlL25ld3MvVm9kYWZvbmUtZXJyZWljaHQtOTAtUHJvemVudC1NYXJrZS1iZWktQWJkZWNrdW5nLW1pdC1GdW5rc3RhbmRhcmQtNUctOTI2ODQ0OC5odG1s0gEA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T15:10:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "t-online - Finanzen",
-    "title": "C&A: Modekette baut um – so viele deutsche Filialen mussten schließen - t-online - Finanzen",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50LW9ubGluZS5kZS9maW5hbnplbi9ha3R1ZWxsZXMvd2lydHNjaGFmdC9pZF8xMDAyMjgzMTgvYy1hLW1vZGVrZXR0ZS1iYXV0LXVtLXNvLXZpZWxlLWRldXRzY2hlLWZpbGlhbGVuLW11c3N0ZW4tc2NobGllc3Nlbi0uaHRtbNIBAA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T15:00:04Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "kreiszeitung.de",
-    "title": "Bild von Edeka-Lieferung sorgt für Empörung: „Wer gibt eigentlich die Baugenehmigung für so einen Markt?“ - kreiszeitung.de",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5rcmVpc3plaXR1bmcuZGUvdmVyYnJhdWNoZXIvZWlnZW50bGljaC1kaWUtYmF1Z2VuZWhtaWd1bmctZWRla2EtbGFzdGVyLWxrdy1yZWRkaXQtcGFya2VuLWxhZGVuLXNvcmd0LWZ1ZXItZW1wb2VydW5nLXdlci1naWJ0LXpyLTkyNDY1MTM5Lmh0bWzSAQA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T14:52:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "CHIP Online Deutschland",
-    "title": "32 Teile für unter 10 Euro: Schrauberset von Bosch lachhaft günstig - CHIP Online Deutschland",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy8zMi1UZWlsZS1mdWVyLXVudGVyLTEwLUV1cm8tU2NocmF1YmVyc2V0LXZvbi1Cb3NjaC1sYWNoaGFmdC1ndWVuc3RpZ18xODQ5MTI5MTguaHRtbNIBAA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2023-08-20T14:33:10Z",
-    "content": null
-    }
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Rachel Liang",
+            "title": "Deal to Double China Flights Signals U.S. Airlines' Stronger Hand - The Wall Street Journal",
+            "description": "Both sides stay civil even as Biden administration’s go-slow policy frustrates Beijing’s hopes of faster aviation-market reopening",
+            "url": "https://www.wsj.com/business/airlines/deal-to-double-china-flights-signals-u-s-airlines-stronger-hand-a789123a",
+            "urlToImage": "https://images.wsj.net/im-838679/social",
+            "publishedAt": "2023-08-22T04:00:00Z",
+            "content": " "
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He",
+            "title": "What's gone wrong with China's economy - CNN",
+            "description": "China has long been the engine of global growth.",
+            "url": "https://www.cnn.com/2023/08/21/economy/china-economy-troubles-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230821154721-shanghai-economy-080723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-22T03:42:00Z",
+            "content": "China has long been the engine of global growth.\r\nBut in recent weeks, its economic slowdown has alarmed international leaders and investors who are no longer counting on it to be a bulwark against w… [+7178 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Powerball winning numbers for Aug. 21. Jackpot grows to $291 million. - USA TODAY",
+            "description": "No winning ticket drawn Saturday means the Powerball jackpot is an estimated $291 million ahead of Monday's drawing. See winning numbers.",
+            "url": "https://www.usatoday.com/story/money/2023/08/21/powerball-winning-numbers-aug-21/70646741007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2019/09/10/USAT/3233a800-0794-4776-b0ba-0cb9a8b2e854-XXX_IMG_AP_POWERBALL_JACKPOT_1_1_9HIL0AIH.JPG?auto=webp&crop=2689,1513,x0,y688&format=pjpg&width=1200",
+            "publishedAt": "2023-08-22T03:03:45Z",
+            "content": "No winning ticket drawn Saturday means the Powerball jackpot is an estimated $291 million ahead of Monday's drawing.\r\nMonday night's winning numbers were drawn just after 11 p.m. ET and we have the r… [+2622 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "WXYZ"
+            },
+            "author": "Simon Shaykhet, David Kalman",
+            "title": "UAW workers ready to battle Big Three as strike chances appear to grow - WXYZ 7 Action News Detroit",
+            "description": "The UAW is confirming strike authorization votes are ongoing at their local unions and now, a new video singles out a Ford Motor Co. worker who says she’s fighting for more.",
+            "url": "https://www.wxyz.com/news/uaw-workers-ready-to-battle-big-three-as-strike-chances-appear-to-grow",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/004d9fa/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2F1dc%2Fbe88c4e651db4a7dbe102614d7272948%2F1dc1b4d626ac4783bd6bad49030f03ba%2Fposter_b275c8f204bb4e67beab34ee6d8a77fb.jpg",
+            "publishedAt": "2023-08-22T02:47:00Z",
+            "content": "DEARBORN, Mich. (WXYZ) Were drawing closer to a strike deadline on Sept. 14 as United Auto Workers members remain at odds with the Big Three over double-digit pay increases, eliminating a two-tier wa… [+3019 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "S&P downgrades multiple U.S. banks citing 'tough' operating conditions - CNBC",
+            "description": "The collapse of Silicon Valley Bank and Signature Bank sparked a crisis of confidence in the sector, leading to a run on deposits at a host of regional banks.",
+            "url": "https://www.cnbc.com/2023/08/22/sp-downgrades-multiple-us-banks-citing-tough-operating-conditions.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105270714-GettyImages-816113336.jpg?v=1692672359&w=1920&h=1080",
+            "publishedAt": "2023-08-22T02:45:00Z",
+            "content": "S&amp;P Global on Monday cut credit ratings and revised its outlook for multiple U.S. banks, following a similar move by Moody's, warning that funding risks and weaker profitability will likely test … [+1245 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures: Nvidia, Tesla Boost Stock Market Rally Attempt; What To Do Now - Investor's Business Daily",
+            "description": " ",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-tesla-boost-stock-market-rally-attempt-what-to-do-now/",
+            "urlToImage": " ",
+            "publishedAt": "2023-08-22T01:32:00Z",
+            "content": " "
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nell Lewis",
+            "title": "Wind-powered cargo ship sets sail in a move to make shipping greener - CNN",
+            "description": "A Cargill-chartered cargo ship fitted with giant, steel sails has set out on its maiden voyage.",
+            "url": "https://www.cnn.com/2023/08/22/travel/wind-powered-cargo-ship-cargill-bartech-climate-c2e-spc-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230821165158-bar-tech-pyxis-ocean-1.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-22T00:46:00Z",
+            "content": "Editors Note: Call to Earth is a CNN editorial series committed to reporting on the environmental challenges facing our planet, together with the solutions. Rolexs Perpetual Planet initiative has par… [+3642 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Kylie Robison",
+            "title": "Elon Musk plans to remove headlines from news articles shared on X - Fortune",
+            "description": "Tweets containing news article links will be stripped of headlines and other metadata (like this very sentence). Instead, X, formerly Twitter, plans to display only an image and a URL.",
+            "url": "https://fortune.com/2023/08/21/elon-musk-plans-remove-headlines-news-articles-link-shared-on-x-twitter/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/08/GettyImages-1499013466.jpeg?resize=1200,600",
+            "publishedAt": "2023-08-22T00:41:00Z",
+            "content": "X, the social media platform previously known as Twitter, is planning a major change in how news articles appear on the service, stripping out the headline and other text so that tweets with links di… [+4145 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "New York Post"
+            },
+            "author": "Fox Business",
+            "title": "Facebook users have only days left to file claim for share of $725M settlement - New York Post ",
+            "description": "Eligible users are automatically part of the settlement unless they choose to opt out and receive no payment.",
+            "url": "https://nypost.com/2023/08/21/facebook-users-have-days-left-to-file-claim-for-share-of-725m-settlement/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-zr3dfosjc-1692663988951.jpg?quality=75&strip=all&1692649609&w=1024",
+            "publishedAt": "2023-08-22T00:27:00Z",
+            "content": "The deadline is drawing near for eligible claimants to file for their share of a $725 million payout to Facebook users, with only a handful of days remaining to take action.\r\nPeople who used Facebook… [+1892 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "Baltimore Sun"
+            },
+            "author": "Lia Russell",
+            "title": "Baltimore City Council introduces bill requiring property owners' permission to install outdoor gas regulators - Baltimore Sun",
+            "description": "The Baltimore City Council heard legislation on Monday that would require public service agencies to obtain permission before installing gas meters and regulators on private property.",
+            "url": "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-bge-gas-regulators-20230822-yxb5bfmtbzdzfgllfbfofeawmq-story.html",
+            "urlToImage": "https://www.baltimoresun.com/resizer/YVp9bNzudo2IVVKHgK3hk34ovLA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/ISILPO5QLNDZXPXJTOM3YDUSZQ.jpg",
+            "publishedAt": "2023-08-22T00:11:54Z",
+            "content": "The Baltimore City Council heard legislation on Monday that would require public service agencies to obtain permission before installing gas meters and regulators on private property.\r\nThe ordinance,… [+1771 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "YouTube"
+            },
+            "author": " ",
+            "title": "China May Ramp Up Support for Local Govt Financing Vehicles: Caixin - Bloomberg Television",
+            "description": "China is considering stronger action to address risks from local government financing vehicles, according to financial media outlet Caixin. John Liu reports ...",
+            "url": "https://www.youtube.com/watch?v=-3VAdA13CZw",
+            "urlToImage": "https://i.ytimg.com/vi/-3VAdA13CZw/hqdefault.jpg",
+            "publishedAt": "2023-08-22T00:00:13Z",
+            "content": " "
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "KSBW The Central Coast"
+            },
+            "author": "Kingston Rivera",
+            "title": "More than 450 traffic stops made during Monterey Car Week - KSBW Monterey",
+            "description": "As Monterey Car Week came to a close Sunday afternoon, law enforcement agencies began releasing numbers on traffic violations made throughout the week.",
+            "url": "https://www.ksbw.com/article/more-than-450-traffic-stops-made-during-monterey-car-week/44871395",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/img-2501-64e3ed2a2b723.jpeg?crop=1.00xw:0.424xh;0,0.160xh&resize=1200:*",
+            "publishedAt": "2023-08-21T23:33:00Z",
+            "content": "MONTEREY, Calif. —As Monterey Car Week came to a close Sunday afternoon, law enforcement agencies began releasing numbers on traffic violations made throughout the week.\r\nThe Monterey Police Departme… [+699 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "San Francisco Chronicle"
+            },
+            "author": "Carolyn Said, Roland Li",
+            "title": "Here's a first look inside S.F.'s new downtown IKEA - San Francisco Chronicle",
+            "description": "Here's a first look inside the new downtown IKEA in San Francisco, which is smaller than its suburban stores",
+            "url": "https://www.sfchronicle.com/sf/article/s-f-downtown-ikea-first-look-18299234.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/34/12/34/24160046/3/rawImage.jpg",
+            "publishedAt": "2023-08-21T23:27:54Z",
+            "content": "Workers swarmed around IKEAs new San Francisco store on Monday, wearing bright blue and yellow shirts  the colors of the Swedish flag, as well as IKEAs signature hues  while putting the finishing tou… [+5154 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "WGAL Susquehanna Valley Pa."
+            },
+            "author": "Brian Roche",
+            "title": "Some PPL customers still frustrated by billing issues - WGAL Susquehanna Valley Pa.",
+            "description": "News 8 On Your Side first told you about PPL billing problems back in January, and some customers still haven't had their issues resolved.",
+            "url": "https://www.wgal.com/article/ppl-customer-says-she-hasnt-received-a-bill-in-8-months/44871758",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/images/email-about-ppl-billing-64e3e86363fb3.png?crop=0.9814814814814815xw:1xh;center,top&resize=1200:*",
+            "publishedAt": "2023-08-21T23:22:00Z",
+            "content": "The News 8 On Your Side team is still hearing from PPL customers who are frustrated by billing issues.\r\nNews 8 first told you about these problems back in January.\r\nOne of the viewers who just contac… [+1243 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "MarketWatch"
+            },
+            "author": "William Watts",
+            "title": "ETF that tracks Jim Cramer's stock picks to close - MarketWatch",
+            "description": "Long Cramer ETF is up 3.3% since its launch",
+            "url": "https://www.marketwatch.com/story/etf-that-tracks-jim-cramers-stock-picks-to-close-cf65413f",
+            "urlToImage": "https://images.mktw.net/im-234547/social",
+            "publishedAt": "2023-08-21T23:08:00Z",
+            "content": "An exchange-traded fund set up to buy stocks recommended by CNBC personality Jim Cramer will be closed and liquidated, its provider said Monday.Shares of the Long Cramer Tracker ETF \r\n LJIM\r\n will se… [+1857 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Charles Schwab slashing jobs, offices to streamline operations - Fox Business",
+            "description": "The Charles Schwabe Corporation reported in an SEC filing Monday it plans to close or downsize some corporate offices and reduce its headcount to cut costs.",
+            "url": "https://www.foxbusiness.com/markets/charles-schwab-slashing-jobs-offices-streamline-operations",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/04/0/0/2023-03-20T185827Z_1419079596_RC2SXZ9ZIDUQ_RTRMADP_3_GLOBAL-BANKS-CHARLES-SCHWAB.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-21T22:58:24Z",
+            "content": "Charles Schwab says it is preparing to reduce both its headcount and real estate footprint in a series of cost-cutting measures aimed at streamlining operations.\r\nThe San Francisco-based brokerage gi… [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "Fox Business"
+            },
+            "author": "Megan Henney",
+            "title": "Workers now demanding nearly $80K to start new job - Fox Business",
+            "description": "A New York Federal Reserve survey published Monday found the minimum acceptable salary that American workers will take to switch jobs is at a record high.",
+            "url": "https://www.foxbusiness.com/money/workers-now-demanding-nearly-start-new-job",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/03/0/0/job-fair-people-miami-florida.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-21T22:41:21Z",
+            "content": "The lowest wage that American workers are willing to take in order to accept a new job hit a record high this year, according to a Federal Reserve Bank of New York survey published Monday.\r\nThe avera… [+2718 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "CNBC"
+            },
+            "author": "Julie Coleman",
+            "title": "Cramer tells investors to stick with their convictions during a tough market - CNBC",
+            "description": "CNBC's Jim Cramer on Monday encouraged investors to stick with their convictions, especially amid market turbulence.",
+            "url": "https://www.cnbc.com/2023/08/21/cramer-tells-investors-to-stick-with-convictions-during-tough-market.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104608847-IMG_5164-jim-cramer.jpg?v=1692656382&w=1920&h=1080",
+            "publishedAt": "2023-08-21T22:19:42Z",
+            "content": "CNBC's Jim Cramer on Monday encouraged investors to stick with their own convictions when the market is turbulent or confusing. The market, he said, is currently tough, with the S&amp;P 500 and the N… [+1613 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Doc Louallen",
+            "title": "Michigan woman had 'no idea' she won $2M from historic Mega Millions jackpot - USA TODAY",
+            "description": "Woman wins $2 million from largest mega millions drawing in U.S. history and had no idea.",
+            "url": "https://www.usatoday.com/story/money/2023/08/21/michigan-woman-wins-2-million-from-mega-millions-drawing/70645791007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/08/08/USAT/26f9094b-a016-401c-9f27-35a4f15cf43c-1585153253.jpg?crop=4854,2731,x0,y245&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-08-21T22:02:31Z",
+            "content": "A Michigan woman had no idea she won $2 million after she matched five white balls in the Aug. 4 Mega Million drawing.\r\nRachel Frye, 36, of Freeland, Michigan, recently checked her Michigan Lottery a… [+2304 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": " ",
+            "title": "Generic drug giants settle federal price-fixing charges - POLITICO",
+            "description": "The settlements resolve a long-running criminal probe of the generic pharmaceutical industry dating to 2014.",
+            "url": "https://www.politico.com/news/2023/08/21/drug-companies-settle-price-fixing-00112145",
+            "urlToImage": "https://static.politico.com/dd/37/b9757e0f49c9a11902187dfd9673/opioid-crisis-teva-settlement-35324.jpg",
+            "publishedAt": "2023-08-21T22:02:00Z",
+            "content": "The two companies both agreed to sell off their operations making the cholesterol drug pravastatin. Companies typically pay criminal fines to settle antitrust charges rather than selling off lines of… [+2376 chars]"
+        }
     ]
-    }
+}

@@ -1,266 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 58,
+    "totalResults": 69,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Ascii.jp"
+                "id": " ",
+                "name": "INSIDER"
             },
-            "author": "ASCII",
-            "title": "遊べるWebサイトを240秒で作る方法――DeployScriptを試そう - ASCII.jp",
-            "description": "またまた、ChatGPTで「ここまでやるか？」というプラグインが登場した。「こんなサイトが欲しい」と伝えるとHTML、CSS、JavaScriptを自動生成して、サイトまで立ち上げてしまうDeployScriptである。",
-            "url": "https://ascii.jp/elem/000/004/150/4150608/",
-            "urlToImage": "https://ascii.jp/img/2023/08/18/3588972/xl/5eb6110e05c4794b.png?20200122",
-            "publishedAt": "2023-08-20T08:12:25Z",
-            "content": "ChatGPTHTMLCSSJavaScriptDeployScript\r\nendoGPTDeployScriptChatGPT\r\nDeployScriptChatGPT plus202023811215ChatGPTGPT-4DeployScript\r\n(1)GPT-4(2)Plugins(3)Plugin Store(4)DeployScript(5)DeployScript\r\nChatGP… [+622 chars]"
+            "author": "Kaki Okumura",
+            "title": "Japanese diet principles to avoid stress and help with weight loss - Insider",
+            "description": "One Japanese healthy eating principle taught me that if I stop eating when I'm 80% full, I would never have to go on another diet.",
+            "url": "https://www.insider.com/japanese-diet-eating-transformed-body-mind-weight-loss-2023-8",
+            "urlToImage": "https://i.insider.com/64e416c5b698ac0019deb524?width=1200&format=jpeg",
+            "publishedAt": "2023-08-22T02:57:00Z",
+            "content": "The irony of eating well is that often the more effort we put in, the less good we feel. Strategies like counting calories, tracking macros, and intermittent fasting all demand a significant degree o… [+3599 chars]"
         },
         {
             "source": {
-                "id": null,
+                "id": " ",
+                "name": "The Guardian"
+            },
+            "author": "Sian Cain",
+            "title": "Game over: voice of Mario retiring after three decades, Nintendo announces - The Guardian",
+            "description": "Charles Martinet was the original voice of the Italian plumber, but is now ‘stepping back’ from voicing characters for the Japanese game giant",
+            "url": "https://www.theguardian.com/games/2023/aug/22/voice-of-mario-charles-martinet-retires-nintendo",
+            "urlToImage": "https://i.guim.co.uk/img/media/f9ff36cb35cbf695e203d32d020161942d2fc564/510_163_2512_1507/master/2512.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d2f6090d3780cca40d0d1338f4de5b1",
+            "publishedAt": "2023-08-22T00:45:00Z",
+            "content": "The voice of Mario is stepping back from the role after 27 years as the Nintendo character, the Japanese game company has announced.\r\nCharles Martinet, 67, was the original voice of the Italian plumb… [+2888 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Nintendo Switch System Update 16.1.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
+            "description": "Ultra stable",
+            "url": "https://www.nintendolife.com/news/2023/08/nintendo-switch-system-update-16-1-0-is-now-live-here-are-the-full-patch-notes",
+            "urlToImage": "https://images.nintendolife.com/8e01bada8c912/1280x720.jpg",
+            "publishedAt": "2023-08-22T00:35:00Z",
+            "content": "Image: Nintendo\r\nNintendo has released a new update for the Switch, bumping the firmware up to Version 16.1.0. This is the fifth update of 2023 and the first one we've had since May.\r\nAccording to th… [+698 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "James Trew",
+            "title": "Rode's Wireless Pro mic kit lets you forget about 'clipped' audio - Engadget",
+            "description": "The Wireless Pro from Rode includes a lot of user-requested features -- from a charging case to 32-bit float audio. But at $399 it comes at premium.",
+            "url": "https://www.engadget.com/rodes-wireless-pro-mic-kit-lets-you-forget-about-clipped-audio-000028417.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BQIaQuHgAxDlmaIv2Sajiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/fc7bd690-4036-11ee-b6b3-0d2e1916a689",
+            "publishedAt": "2023-08-22T00:01:32Z",
+            "content": "It might not be an overstatement to say Rode's original Wireless GO microphone system changed how a lot of YouTubers work. It wasn't the first wireless mic system, not by a long long shot, but its fo… [+3352 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "iPhone 15 Pro Max to face 3-4 week delay compared to other models – analyst - 9to5Mac",
+            "description": "Apple is expected to announced the iPhone 15 line in three weeks and begin shipping hardware in four weeks. The...",
+            "url": "https://9to5mac.com/2023/08/21/iphone-15-pro-max-release-date/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/iPhone-15-Pro-red-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-08-21T23:53:00Z",
+            "content": "Apple is expected to announced the iPhone 15 line in three weeks and begin shipping hardware in four weeks. The highest end iPhone with the most advanced camera system may face delays into October, h… [+1950 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "T-Mobile's 'Go5G Next' Plan Lets Customers Upgrade Smartphones Every Year - MacRumors",
+            "description": "T-Mobile today announced a new Go5G Next plan that is designed to allow subscribers to upgrade their smartphones on a yearly basis. The plan is...",
+            "url": "https://www.macrumors.com/2023/08/21/t-mobile-go5g-next-plan/",
+            "urlToImage": "https://images.macrumors.com/t/qhP9zbRY1BIe2QiNWF1lo9U2eT4=/1600x/article-new/2023/08/t-mobile-go5g-next.jpg",
+            "publishedAt": "2023-08-21T23:46:52Z",
+            "content": "T-Mobile today announced a new Go5G Next plan that is designed to allow subscribers to upgrade their smartphones on a yearly basis. The plan is available alongside the existing Go5G and Go5G Plus opt… [+1172 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
+                "name": "Eurogamer.net"
+            },
+            "author": "Matt Wales",
+            "title": "Immortals: Fenyx Rising 2 reportedly mixed Elden Ring with Wind Waker - Eurogamer.net",
+            "description": "Following last month's confirmation that a planned sequel to Ubisoft's enjoyable open-world romp Immortals: Fenyx Risin…",
+            "url": "https://www.eurogamer.net/immortals-fenyx-risings-sequel-reportedly-mixed-elden-ring-with-wind-waker",
+            "urlToImage": "https://assetsio.reedpopcdn.com/ubisoft-reportedly-working-on-immortals-fenyx-rising-sequel-new-prince-of-persia-more-1647904817101.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2023-08-21T22:14:21Z",
+            "content": "Following last month's confirmation that a planned sequel to Ubisoft's enjoyable open-world romp Immortals: Fenyx Rising had been cancelled, new details of the ill-fated project have emerged, includi… [+2788 chars]"
+        },
+        {
+            "source": {
+                "id": " ",
                 "name": "YouTube"
             },
-            "author": null,
-            "title": "岸田総理 原発処理水放出めぐり 全漁連会長らと明日21日にも面会へ｜TBS NEWS DIG - TBS NEWS DIG Powered by JNN",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=XVWIstFz4JI",
-            "urlToImage": null,
-            "publishedAt": "2023-08-20T06:08:34Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "author": " ",
+            "title": "Cult of the Lamb x Don't Starve Together - Official Collaboration Update Launch Trailer - IGN",
+            "description": "Check out the trailer for the Cult of the Lamb x Don't Starve Together collaboration, which brings a new crossover event, available today, August 21, for bot...",
+            "url": "https://www.youtube.com/watch?v=C0TcCIoG10A",
+            "urlToImage": "https://i.ytimg.com/vi/C0TcCIoG10A/maxresdefault.jpg",
+            "publishedAt": "2023-08-21T22:00:06Z",
+            "content": " "
         },
         {
             "source": {
-                "id": null,
-                "name": "Iphone-mania.jp"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "hato",
-            "title": "iPadをSwitchやPS5などゲーム機のモニターとして活用する方法 - iPhone Mania",
-            "description": "iPadを、Nintendo Switch（ニンテンドー スイッチ）やPlayStation 5（PS5）などゲーム機のディスプレイとして使う方法を米メディアMacRumorsがまとめています。iPa…",
-            "url": "https://iphone-mania.jp/news-549574/",
-            "urlToImage": "https://iphone-mania.jp/uploads/2023/08/20/iPad-NintendoSwith-1.jpg",
-            "publishedAt": "2023-08-20T04:02:00Z",
-            "content": "iPadNintendo Switch PlayStation 5PS5MacRumorsiPadOS17USB-CiPadUSB-C31. iPadNintendo Switch2. USB-CiPadOS17iPad3. USB-C\r\niPad\r\niPadiPadOS17USB-CLightningiPadNintendo SwitchPlayStation 5PS5XboxHDMIiPad… [+382 chars]"
+            "author": "Sean Hollister",
+            "title": "Tell every PC gamer you know: Dough, formerly Eve, is ready to issue refunds - The Verge",
+            "description": "Dough, formerly Eve, wants to fix its bad reputation. The company now claims that if you fill out a form, you can get your refund or other kinds of help fast. Dough tells The Verge it’s already issued 25,000 refunds.",
+            "url": "https://www.theverge.com/2023/8/21/22825700/dough-eve-refunds-retail-brand-perception-spectrum-v-tablet",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/bAPiGfchuWmCzIbzZdyq9Y9X5V8=/292x0:2648x1616/1200x628/filters:focal(1736x997:1737x998)/cdn.vox-cdn.com/uploads/chorus_asset/file/19631520/EVE_Spectrum_desk.jpg",
+            "publishedAt": "2023-08-21T21:55:56Z",
+            "content": "Tell every PC gamer you know: Dough, formerly Eve, is ready to issue refunds\r\nTell every PC gamer you know: Dough, formerly Eve, is ready to issue refunds\r\n / Wed be glad to get our negative brand pe… [+6363 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Ascii.jp"
+                "id": " ",
+                "name": "Videocardz.com"
             },
-            "author": "ASCII",
-            "title": "Windows 11のWinUI3対応で、MicrosoftはWin32アプリ、さらにWindows自体を改良しようとしている (1/2) - ASCII.jp",
-            "description": "秋に予定されているWindows 11 Ver.23H2では、エクスプローラーがWinUI3で作り直される。このあたりの状況を今回は見ていきたい。",
-            "url": "https://ascii.jp/elem/000/004/150/4150636/",
-            "urlToImage": "https://ascii.jp/img/2023/08/19/3589178/xl/0d338f0351a4de2c.jpg?20200122",
-            "publishedAt": "2023-08-20T01:00:00Z",
-            "content": "WindowsWindowsWindows 10IT\r\nWindows 11WindowsWindows 11\r\nWindows 11 Ver.23H2WinUI3\r\nMicrosoftFluent XAML Theme EditorGUIWinUIWinUI3GUIWin32\r\nWindowsWindows XPNTWindowsDOSWindows VistaWindowsWindows 7… [+488 chars]"
+            "author": " ",
+            "title": "AMD Radeon Software Adrenalin 23.8.1 - VideoCardz.com",
+            "description": "Support for Immortals of Aveum™",
+            "url": "https://videocardz.com/driver/amd-radeon-software-adrenalin-23-8-1",
+            "urlToImage": "https://cdn.videocardz.com/1/2023/08/amd-23_8_1.jpg",
+            "publishedAt": "2023-08-21T21:36:00Z",
+            "content": "We may earn an affiliate commission through Amazon and Newegg links.\r\nThis website relies on third-party cookies for advertisement, comments and social media integration. Check our Privacy and Cookie… [+136 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Impress.co.jp"
+                "id": " ",
+                "name": "Droid Life"
             },
-            "author": null,
-            "title": "赤城耕一の「アカギカメラ」 第76回：X100Vに見つけた“愛されカメラ”の様式美 - デジカメ Watch",
-            "description": "発売から3年以上を経るカメラをお迎えするのは、スペックを重視しない筆者らしいとか言われてしまいそうですが、いやいや筆者だって、昔のように仕事が流れていれば、ちゃんと次々に新しいものに買い替えてますよ。",
-            "url": "https://dc.watch.impress.co.jp/docs/column/akagi/1524706.html",
-            "urlToImage": "https://dc.watch.impress.co.jp/img/dcw/list/1524/706/00.jpg",
-            "publishedAt": "2023-08-20T00:00:00Z",
-            "content": "Copyright ©2018Impress Corporation. All rights reserved."
+            "author": "Tim",
+            "title": "Get Pixel Buds Pro at Black Friday Pricing - Droid Life",
+            "description": "Last year’s Black Friday had the Pixel Buds Pro down to a sweet price of $132. Currently on the Google Store and on Amazon, the price is down to $139. That means it’s basically Black Friday in mid-August, which isn’t bad at all. Read: Our Pixel Buds Pro revie…",
+            "url": "https://www.droid-life.com/2023/08/21/deal-pixel-buds-pro-down-to-black-friday-pricing-60-off/",
+            "urlToImage": "https://www.droid-life.com/wp-content/uploads/2022/08/Pixel-Buds-Pro-Review-4-600x315-cropped.jpg",
+            "publishedAt": "2023-08-21T21:33:53Z",
+            "content": "Last year’s Black Friday had the Pixel Buds Pro down to a sweet price of $132. Currently on the Google Store and on Amazon, the price is down to $139. That means it’s basically Black Friday in mid-Au… [+419 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.jp"
+                "id": " ",
+                "name": "SciTechDaily"
             },
-            "author": "そうこ",
-            "title": "ガジェット界のZARAからスマホサイズのミニミニパソコン登場 - GIZMODO JAPAN",
-            "description": "ガジェット企業Glotureから、5.5インチのミニパソコン｢NanoPC｣が発売されています。",
-            "url": "https://www.gizmodo.jp/2023/08/nanopc.html",
-            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/08/15/230815nanopc.jpg?w=1280&h=630&f=jpg",
-            "publishedAt": "2023-08-20T00:00:00Z",
-            "content": "Gloture5.5NanoPC\r\n5.5Intel® Celeron® J41258GB128GB2,500mAhWi-Fi 684700\r\nUSB3.04MicroSD1Mini HDMI 2.02USB-C\r\nImage: Gloture\r\nOSWindows 11 Pro\r\nImage: Gloture\r\n2-in1\r\nZARA\r\n GlotureZARA\r\nZARA!?!?!?!?!?… [+31 chars]"
+            "author": " ",
+            "title": "Long Considered Impossible in Physics: Nonlinear Circuit Harvests Clean Power Using Graphene - SciTechDaily",
+            "description": "The discovery overturns more than a century of physics orthodoxy by identifying a new form of energy that can be extracted from ambient heat using graphene. Obtaining useful work from random fluctuations in a system at thermal equilibrium has long been consid…",
+            "url": "https://scitechdaily.com/long-considered-impossible-in-physics-nonlinear-circuit-harvests-clean-power-using-graphene/",
+            "urlToImage": "https://scitechdaily.com/images/Graphene-Electricity-Materials-Science-Concept.jpg",
+            "publishedAt": "2023-08-21T20:33:22Z",
+            "content": "ByUniversity of ArkansasAugust 21, 2023\r\nResearchers have discovered a method to harness energy from ambient heat using graphene, overturning long-established physics theories. This breakthrough hold… [+8585 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Nichepcgamer.com"
+                "id": " ",
+                "name": "Destructoid"
             },
-            "author": "にっち",
-            "title": "AMD Ryzen 9 7945HX3Dのベンチマーク結果がGeekbenchに掲載。3D V-Cache搭載モバイル版CPU - ニッチなPCゲーマーの環境構築Z",
-            "description": "3D V-Cacheを搭載したモバイル版CPUとなるAMD Ryzen 9 7945HX3DがGeekbenchに掲載されました。そのベンチマーク結果がこちら。 Geekbench: Ryzen 9...",
-            "url": "https://www.nichepcgamer.com/archives/amd-ryzen-9-7945hx3d-geekbench-benchmark-result.html",
-            "urlToImage": "https://www.nichepcgamer.com/wp-content/uploads/2023/08/7945hx3d-a.jpg",
-            "publishedAt": "2023-08-19T23:59:26Z",
-            "content": null
+            "author": " ",
+            "title": "Mortal Kombat 1 doesn't look like it's going to break any kombos - Destructoid",
+            "description": "That's a wrap on the Mortal Kombat 1 beta weekend. Destructoid takes a look at how the game is shaping up.",
+            "url": "https://www.destructoid.com/mortal-kombat-1-doesnt-look-like-its-going-to-break-any-kombos/",
+            "urlToImage": "https://www.destructoid.com/wp-content/uploads/2023/08/Screen_MortalKombat109cropped.jpg?fit=1200%2C675",
+            "publishedAt": "2023-08-21T20:31:26Z",
+            "content": "I remember when Mortal Kombat launched in 1992, or rather, I remember when it was ported to consoles in 1993. I was six at the time, but it was impossible to avoid the media fervor around its ultra-v… [+5646 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Karapaia.com"
+                "id": " ",
+                "name": "Tom's Guide"
             },
-            "author": "カラパイア",
-            "title": "AIは人間以上に自分を「人間」と証明することが得意である - カラパイア",
-            "description": null,
-            "url": "https://karapaia.com/archives/52324983.html",
-            "urlToImage": null,
-            "publishedAt": "2023-08-19T23:00:32Z",
-            "content": null
+            "author": "Anthony Spadafora",
+            "title": "This notorious Mac malware has resurfaced as an office productivity app — how to stay safe - Tom's Guide",
+            "description": "XLoader is back and this infostealer malware now runs natively on macOS",
+            "url": "https://www.tomsguide.com/news/this-notorious-mac-malware-has-resurfaced-as-an-office-productivity-app-how-to-stay-safe",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wKaEoNvjNpRkyZH74YAq2B-1200-80.jpg",
+            "publishedAt": "2023-08-21T20:30:30Z",
+            "content": "Macs are under attack from a new variant of the infamous XLoader malware\r\n which has been rewritten to run natively on the best MacBooks\r\n.\r\nWhile XLoader has been around since at least 2015, it was … [+3152 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Itmedia.co.jp"
+                "id": " ",
+                "name": "CNET"
             },
-            "author": null,
-            "title": "Microsoftの“ずさんなセキュリティ対策”に非難集中 おわびのログ機能無料提供へ - ITmedia エンタープライズ",
-            "description": "Microsoft・ｽﾍ、・ｽﾚ客・ｽﾌ電・ｽq・ｽ・ｽ・ｽ[・ｽ・ｽ・ｽA・ｽJ・ｽE・ｽ・ｽ・ｽg・ｽ・ｽ・ｽn・ｽb・ｽL・ｽ・ｽ・ｽO・ｽ・ｽQ・ｽﾉ托ｿｽ・ｽ・ｽ・ｽ・ｽ・ｽ・ｽ・ｽ・ｽ・ｽｯて、・ｽN・ｽ・ｽ・ｽE・ｽh・ｽZ・ｽL・ｽ・ｽ・ｽ・ｽ・ｽe・ｽB・ｽ・ｽ・ｽO・ｽ@・ｽ\\・ｽｳ擾ｿｽ・ｽﾅ提供ゑｿｽ・ｽ・ｽ\\・ｽ閧ｾ・ｽB・ｽ・ｽ・ｽﾐはゑｿｽ・ｽﾌ鯉ｿｽ・ｽﾉつゑｿｽ・ｽﾄ連・ｽM・ｽ・ｽ・ｽ{・ｽ站｣・ｽ・ｽ・ｽ・ｽ・ｽﾐゑｿｽ・ｽ迪ｵ・ｽ・ｽ・ｽ・ｽ・ｽ癆ｻ・ｽ・ｽ・ｽｯてゑ…",
-            "url": "https://www.itmedia.co.jp/enterprise/articles/2308/20/news002.html",
-            "urlToImage": "https://image.itmedia.co.jp/enterprise/articles/2308/20/cover_news002.jpg",
-            "publishedAt": "2023-08-19T23:00:00Z",
-            "content": "© Industry Dive. All rights reserved."
+            "author": " ",
+            "title": "Xbox Series X Gets Official Starfield Console Wrap - CNET",
+            "description": "These three new wraps are a great way to customize your console without having to buy a pricy limited edition unit.",
+            "url": "https://www.cnet.com/tech/xbox-series-x-gets-official-starfield-console-wrap/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/364af3d3ff2b05e36189b6ca645388275518d890/hub/2023/08/21/0c268263-30a0-45d2-942b-58993191dc39/screenshot-2023-08-21-at-2-40-42-pm.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-08-21T20:30:00Z",
+            "content": "Microsoft is leaning into the Starfield hype by bringing new wraps for Xbox Series X consoles that allow gamers to add some customization, the company said Monday.  \r\nThe wraps, which retail for betw… [+1549 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Otona-life.com"
+                "id": " ",
+                "name": "MacRumors"
             },
-            "author": null,
-            "title": "Xiaomi（シャオミ）のワイヤレスイヤホン「Redmi Buds 4 Lite」− コスパ最強は本当か!? - otona-life/オトナライフ",
-            "description": "Xiaomi（シャオミ）の完全ワイヤレスイヤホン「Redmi Buds 4 Lite」は、AppleのAirPodsそっくりで価格はたったの2,480円。しかも...(1/2)",
-            "url": "https://otona-life.com/2023/08/20/188464/",
-            "urlToImage": "https://otona-life.com/wp/wp-content/uploads/2023/08/pho0001-41-680x356.jpg",
-            "publishedAt": "2023-08-19T23:00:00Z",
-            "content": "AndroidXiaomi236Redmi Buds 4 LiteAppleAirPods2,480XiaomiRedmi Buds 4 Lite\r\nXiaomi2,480\r\nAndroidXiaomi\r\nXiaomi2010Android\r\nXiaomi23629Redmi Buds 4 Lite\r\nXiaomiRedmi Buds 4 Lite2,480\r\nRedmi Buds 4 Lite… [+384 chars]"
+            "author": "Juli Clover",
+            "title": "Samsung's 'Try Galaxy' Feature Uses Two iPhones to Demo Z Fold5 Experience - MacRumors",
+            "description": "Samsung today announced the launch of an updated \"Try Galaxy\" website that's designed to allow iPhone users to experience what it's...",
+            "url": "https://www.macrumors.com/2023/08/21/samsung-try-galaxy-iphone-demo/",
+            "urlToImage": "https://images.macrumors.com/t/X1Sk8s6Xhz0esKeoB3LSujKVqAA=/2000x/article-new/2023/08/samsung-try-galaxy-1.jpg",
+            "publishedAt": "2023-08-21T20:20:39Z",
+            "content": "Samsung today announced the launch of an updated \"Try Galaxy\" website that's designed to allow iPhone users to experience what it's like having a foldable smartphone.\r\nTry Galaxy uses two iPhones to … [+1873 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Oppo-lab.xyz"
+                "id": " ",
+                "name": "9to5google.com"
             },
-            "author": null,
-            "title": "後継機より高性能。OPPOの型落ちスマホを今レビュー - OPPOラボ",
-            "description": "OPPOは毎年スマートフォンを発表していて、基本的には前モデルから性能の向上が図られています。 一方で昨年発売されたOPPO A77は、旧モデルである「OPPO A55s 5G」からCPUスペックが大きくダウンしています。 その結果後継機より高性能なスマホになった旧モデル「OPPO A55s 5G」をレビューします。",
-            "url": "https://www.oppo-lab.xyz/entry/review-higheri-lowmodel-a55s5g",
-            "urlToImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/A/Azusa_Hirano/20230820/20230820050818.jpg",
-            "publishedAt": "2023-08-19T19:55:00Z",
-            "content": "OPPO\r\nOPPO A77OPPO A55s 5GCPU\r\nOPPO A55s 5G\r\nOPPO A55s 5G : \r\nOPPO A55s 5G2021112\r\n2\r\nA55s 5G\r\nOPPO A55s 5G2\r\niPhone Max6.5OPPO\r\n178g182gOPPO A77 : 185g : 187g\r\nOPPO A77A55s 5GiPhone 13\r\nA77A55s 5G\r\n… [+688 chars]"
+            "author": "Andrew Romero",
+            "title": "YouTube TV rolls out Channel Guide redesign, matches Google TV Live tab - 9to5Google",
+            "description": "A newly designed Channel Guide is rolling out to the YouTube TV app. The new look brings a cleaner look...",
+            "url": "https://9to5google.com/2023/08/21/youtube-tv-channel-guide-redesign/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/08/YouTube-TV-Live-Guide-UI-change-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-08-21T20:02:00Z",
+            "content": "A newly designed Channel Guide is rolling out to the YouTube TV app. The new look brings a cleaner look that aligns with Google TVs Live tab.\r\nToward the end of April, Google TV rolled out a new feat… [+1411 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "S-max.jp"
+                "id": " ",
+                "name": "The Nerd Stash"
             },
-            "author": "S-MAX",
-            "title": "エイスースの最新フラッグシップスマホ「Zenfone 10」が日本でも発売へ！ASUS_AI2302が技適通過。n79は引き続いて非対応に - S-MAX",
-            "description": "最新フラッグシップスマホ「ASUS Zenfone 10」が日本で発売へ！ 総務省が「技術基準適合証明等を受けた機器の検索」のデータベースを更新し、新たにASUSTeK Computer（以下、ASUS）が「ASUS_AI2302」（認証番号：020-230198）の工事設計認証（いわゆる「技適」）を2022年7月1",
-            "url": "https://s-max.jp/archives/1825485.html",
-            "urlToImage": "https://livedoor.blogimg.jp/smaxjp/imgs/8/d/8d4dd6ff-s.jpg",
-            "publishedAt": "2023-08-19T14:11:45Z",
-            "content": "5000CMOS11.5611.0m4in12x2 OCL PDAFSonyIMX766F1.935mm23.8mmOIS61300CMOS35mm12.5mm120°[WW version]DC-HSPA+ (DL/UL): 42Mbps / 5.76Mbps ;LTE 7CA (DL/UL) 2.0Gbps / 211Mbps5G NR FR1 (DL/UL): 4.92Gbps / 0.5… [+809 chars]"
+            "author": "Vladyslav Petrenko",
+            "title": "How to Rescue the Tieflings and Wulbren in Baldur's Gate 3 - The Nerd Stash",
+            "description": "If you want to know how to rescue the Tieflings and Wulbren in Baldur’s Gate 3, you've come to the right place.",
+            "url": "https://thenerdstash.com/how-to-rescue-the-tieflings-and-wulbren-in-baldurs-gate-3/",
+            "urlToImage": "https://media.thenerdstash.com/wp-content/uploads/2023/08/tieflings-and-wulbren-in-baldurs-gate-3.jpg",
+            "publishedAt": "2023-08-21T19:30:57Z",
+            "content": "In Baldur’s Gate 3, you’ll encounter many cases where you can help others, and if you do, it will bring good rewards. Some of these tasks are difficult, especially the one we’re going to discuss now,… [+4023 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Front-row.jp"
+                "id": " ",
+                "name": "CNBC"
             },
-            "author": null,
-            "title": "上司にキーを打った「回数」がバレていた…1時間に『平均54回』の従業員は解雇処分 - フロントロウ",
-            "description": "テレワーク中に従業員の作業実態を監視するための新技術を導入する雇用者が増えるなか、慢性的なサボり疑惑があった従業員をクビにした保険会社インシュアランス・オーストラリア・グループ（IAG）が“サボりの実態”を把握するために取り入れた方法とは。",
-            "url": "https://front-row.jp/_ct/17648642",
-            "urlToImage": "https://d1uzk9o9cg136f.cloudfront.net/f/16783100/rc/2023/08/17/b1c8605e9ac4b815122450e193c4dba4c1813c0f_xlarge.jpg",
-            "publishedAt": "2023-08-19T11:46:32Z",
-            "content": null
+            "author": "Jennifer Elias",
+            "title": "Google executive turnover and role changes come as the company searches for new identity - CNBC",
+            "description": "A string of executive changes over the last few months come as the company faces more pressure than ever — and executives want to try something new.",
+            "url": "https://www.cnbc.com/2023/08/21/googles-old-guard-shifts-roles-as-the-company-searches-for-itself.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107011536-1644006216242-gettyimages-1238186195-FORD_MICHIGAN.jpeg?v=1692646215&w=1920&h=1080",
+            "publishedAt": "2023-08-21T19:30:15Z",
+            "content": "Key members of Google's old guard have been shifting roles or leaving the company as it searches for its new identity.\r\nThe changes encompass high-profile executives such as finance chief Ruth Porat,… [+10374 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "S-max.jp"
+                "id": " ",
+                "name": "MMORPG.com"
             },
-            "author": "S-MAX",
-            "title": "ドコモオンラインショップで単体購入を含めてXperia 5 IVが3万3千円割引、Xperia 10 IVが2万2千円割引に！Xperia 1 IVは7万7千円割引が終了 - S-MAX",
-            "description": "ドコモオンラインショップでXperia 5 IV・10 IV・1 IVの割引施策が8月21日より変更！ NTTドコモは18日、公式Webストア「ドコモオンラインショップ」において実施しているキャンペーン「オンラインショップ限定 機種購入割引」の対象機種のうちの5G対応フラッグシップスマート",
-            "url": "https://s-max.jp/archives/1825480.html",
-            "urlToImage": "https://livedoor.blogimg.jp/smaxjp/imgs/2/9/2990626b-s.jpg",
-            "publishedAt": "2023-08-19T11:25:23Z",
-            "content": "NTT18Web 5GXperia 5 IV SO-54CXperia 10 IV SO-52CXperia 1 IV SO-51CSony202382110Xperia 5 IV SO-54C22,00033,000Xperia 10 IV SO-52C11,00022,000Xperia 1 IV SO-51C77,00044,000\r\nXperia 10 IV SO-52CXperia 1… [+834 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lifehacker.jp"
-            },
-            "author": "kotoha ozawa",
-            "title": "睡眠もしっかり記録！ 運動時にも使いやすい軽量リング型アクティビティトラッカー｢SmartLife Ring｣ - GIZMODO JAPAN",
-            "description": "｢SmartLife Ring｣は、脈拍、表面温度、消費カロリーや睡眠トラッキングが行えるリング型フィットネストラッカーです。本体素材はジルコンと呼ばれるジルコニウム由来の鉱物で、セラミックコーティングを施すことでステンレスより強度を高めています。指輪型で邪魔になりにくくサイズもコンパクトながら3日ほど充電が保つため、睡眠時計測がしやすい仕様に。充電を兼ねた持ち運びケースが付属しているため、外出先や出張先にも携帯しやすいのが特長です。クラウドファンディングサイトmachi-yaでスタートした本製品をご紹介いたしま…",
-            "url": "https://www.lifehacker.jp/article/machi-ya-smartlifering-start-668567/",
-            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/07/07/nk7wworn.jpg.png?w=1280&h=630&f=jpg",
-            "publishedAt": "2023-08-19T10:45:00Z",
-            "content": "Copyright © mediagene Inc. All Rights Reserved."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lifehacker.jp"
-            },
-            "author": "お買いものサポーター",
-            "title": "自宅でも出先でも活躍するロジクールのハイスペックコンビは【Amazonセール】で賢く揃えよう - Lifehacker JAPAN",
-            "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2023年8月19日は、ロジクールの高性能トラックボールマウス｢MX ERGO｣の新モデルが18%オフ、コンパクトなデザインでスタイリッシュな高性能キーボード｢MX KEYS mini KX700GRd｣が21%オフなど、ロジクールのデスク周辺アイテムがお得に多数登場しています。",
-            "url": "https://www.lifehacker.jp/article/amazon-timesale-2023-0819-2/",
-            "urlToImage": "https://media.loom-app.com/loom/2023/08/19/670bcca3-e7e1-40ca-b2ec-f0ee5c18536d/original.jpg?w=1280&h=630&f=jpg",
-            "publishedAt": "2023-08-19T10:32:34Z",
-            "content": "Amazon2023819MX ERGO18%MX KEYS mini KX700GRd21%\r\n202381917\r\nAmazon824\r\n12AmazonAudible30\r\nKindle Unlimited20030\r\nMX ERGO18%\r\nMX ERGO18%\r\n21%\r\nMX KEYS mini KX700GRd21%\r\n31\r\nMSI20\r\nMSI Clutch GM51 Ligh… [+284 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Livedoor.com"
-            },
-            "author": "iPhone Mania",
-            "title": "iPhone15などのスマートフォン 各社が7500円以上値上げへ？ (2023年8月19日掲載) - livedoor",
-            "description": "\u001aiPhone15シリーズだけではなく、Google Pixel 8シリーズなど各社のスマートフォンのハイエンドモデルは今後、50ドル（税込でおよそ7,500円）～200ドル（税込でおよそ30,000円）値上げされるとの予想を、リーカ",
-            "url": "https://news.livedoor.com/topics/detail/24829898/",
-            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/8/3/83536_1400_4687184c5801be936c63df0a5af7d243.jpg",
-            "publishedAt": "2023-08-19T10:30:37Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Livedoor.com"
-            },
-            "author": "iPhone Mania",
-            "title": "iPhone15やPixel 8など各社のスマホが全て7,500円以上値上げと予想 - ライブドアニュース - livedoor",
-            "description": "\u001aiPhone15シリーズだけではなく、Google Pixel 8シリーズなど各社のスマートフォンのハイエンドモデルは今後、50ドル（税込でおよそ7,500円）～200ドル（税込でおよそ30,000円）値上げされるとの予想を、リーカ",
-            "url": "https://news.livedoor.com/article/detail/24829898/",
-            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/8/3/83536_1400_4687184c5801be936c63df0a5af7d243.jpg",
-            "publishedAt": "2023-08-19T10:30:37Z",
-            "content": "iPhone15Google pixel 8507,50020030,000Yogesh Brar@heyitsyogesh\r\n31. iPhone15 ProiPhone15 Pro Max15,00030,0002. Android3. \r\nGoogle PixelGalaxy S\r\niPhone15 Pro100iPhone15 Pro Max200Yogesh Brar@heyitsyo… [+414 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kanaloco.jp"
-            },
-            "author": null,
-            "title": "就寝中カップルの客室に侵入疑い 横浜のホテル従業員逮捕 - カナロコ by 神奈川新聞",
-            "description": "カップルの客室に侵入し盗撮したとして、加賀町署は１９日、住居侵入の疑いで、横浜市瀬谷区瀬谷４丁目、会社員の男（２１）を逮捕した。男はホテル従業員で、「宿泊者名簿で交際していた女性と同姓同名の客がいることに気付き、動画を撮って驚かせようと思…",
-            "url": "https://www.kanaloco.jp/news/social/case/article-1013393.html",
-            "urlToImage": "https://www.kanaloco.jp/sites/default/files/styles/rectangle_750_390/public/2023-08/%E5%8A%A0%E8%B3%80%E7%94%BA%E8%AD%A6%E5%AF%9F%E7%BD%B2_1.jpg?itok=FKxkoWG_",
-            "publishedAt": "2023-08-19T10:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkei.com"
-            },
-            "author": "日本経済新聞社",
-            "title": "横浜ガンダムの技術応用、搭乗型変形ロボット「アーカックス」発進 - 日本経済新聞",
-            "description": "人が搭乗できるロボットを開発するツバメインダストリ（東京・江戸川）は19日、ロボットの操縦デモを公開した。四輪の車両にロボットの上半身が載り、重心を落とした走行モードに変形できる。まずはエンターテインメント用途で娯楽施設や富裕層などに販売し、将来は災害現場や宇宙空間での作業にも応用を目指す。ツバメインダストリには2020年から横浜市で展示されている実物大の「動くガンダム」の開発に携わった技術者",
-            "url": "https://www.nikkei.com/article/DGXZQOUC037WM0T00C23A8000000/",
-            "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3736647019082023000000-1.jpg?ixlib=js-3.8.0&auto=format%2Ccompress&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.95&fp-y=0.61&fp-z=1&crop=focalpoint&s=b3ca7289a68630780ddf58f3a2bc999b",
-            "publishedAt": "2023-08-19T10:00:00Z",
-            "content": null
+            "author": "MMORPG.com",
+            "title": "Genre Blending, Fantasy Magical FPS Immortals of Aveum Launches - MMORPG.com",
+            "description": " ",
+            "url": "https://www.mmorpg.com/news/genre-blending-fantasy-magical-fps-immortals-of-aveum-launches-2000128739",
+            "urlToImage": " ",
+            "publishedAt": "2023-08-21T19:30:00Z",
+            "content": " "
         }
     ]
 }

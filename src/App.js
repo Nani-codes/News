@@ -24,11 +24,10 @@ const App = ()=> {
         <LoadingBar
         height={3}
         color='#f11946'
-        progress={progress} 
-      />
+        progress={progress} />
         <Switch>
           <Route exact path="/enroll"><Enroll/></Route>
-          <Route exact path="/"><News setProgress={setProgress} apiKey={apiKey} key="Home" pageSize={pageSize} parsedData={sample} country="US" category=""/></Route> 
+          <Route exact path="/"><News setProgress={setProgress} apiKey={apiKey} key="Home" pageSize={pageSize} parsedData={science} country="US" category="Home"/></Route> 
           <Route exact path="/business"><News setProgress={setProgress} apiKey={apiKey} key="business" pageSize={pageSize} parsedData={buisness} country="Germany" category="business"/></Route> 
           <Route exact path="/health"><News setProgress={setProgress} apiKey={apiKey} key="health" pageSize={pageSize} parsedData={health}country="US" category="health"/></Route> 
           <Route exact path="/science"><News setProgress={setProgress} apiKey={apiKey} key="science" pageSize={pageSize} parsedData={science} country="US" category="science"/></Route>

@@ -1,20 +1,30 @@
 import React, {useEffect, useState} from 'react'
-
 import NewsItem from './NewsItem'
 import Spinner from './Spinner';
 import PropTypes from 'prop-types'
 import InfiniteScroll from "react-infinite-scroll-component";
 
 const News = (props)=>{
-    const [articles, setArticles] = useState([])
+    const [articles, setArticles] = useState(props.parsedData.articles);
     const [loading, setLoading] = useState(true)
     const [page, setPage] = useState(1)
     const [totalResults, setTotalResults] = useState(0)
+    const [search,setSearch] = useState('');
+    const filteredPosts = articles.filter((article) => article.description.includes(search.toLowerCase()))
     let {category} = props;
     let {country} = props;
     const capitalizeFirstLetter = (string) => {
         return string.charAt(0).toUpperCase() + string.slice(1);
     } 
+
+
+    const handleSearch = (e) => {
+        setSearch(e.target.value);
+    }
+
+   
+
+
 
     const updateNews = async ()=> {
         props.setProgress(10);
@@ -30,9 +40,8 @@ const News = (props)=>{
         setLoading(false)
         props.setProgress(100);
     }
-
     useEffect(() => {
-        document.title = `${capitalizeFirstLetter(props.category)} - HowToAbroad`;
+        document.title = `${capitalizeFirstLetter(category)} - HowToAbroad`;
         updateNews(); 
         // eslint-disable-next-line
     }, [])
@@ -51,7 +60,11 @@ const News = (props)=>{
  
         return (
             <>
-                <h1 className="text-center" style={{ margin: '35px 0px', marginTop: '90px' }}>HowToAbroad - Top {category} Trends in {country}</h1>
+                <form style={{ margin: '35px 0px', marginLeft:'100px', marginRight:'200px', marginTop: '90px' }} className="d-flex" role="search">
+                    <input  className="form-control me-2" type="search" placeholder="Search" aria-label="Search" value={search} onChange={handleSearch}/>
+                    <button className="btn btn-outline-success" type="submit">Search</button>
+                </form>
+                <h1 className="text-center" style={{ margin: '35px 0px', marginTop: '90px' }}>HowToAbroad - Top {category} Trends in US</h1>
                 {loading && <Spinner />}
                 <InfiniteScroll
                     dataLength={articles.length}
@@ -62,7 +75,7 @@ const News = (props)=>{
                     <div className="container">
                          
                     <div className="row">
-                        {articles.map((element) => {
+                        {filteredPosts.map((element) => {
                             return <div className="col-md-4" key={element.url}>
                                 <NewsItem title={element.title ? element.title : ""} description={element.description ? element.description : ""} imageUrl={element.urlToImage} newsUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name} />
                             </div>
