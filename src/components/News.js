@@ -60,9 +60,9 @@ const News = (props)=>{
  
         return (
             <>
-                <form style={{ margin: '35px 0px', marginLeft:'100px', marginRight:'200px', marginTop: '90px' }} className="d-flex" role="search">
+                <form style={{ margin: '100px 50px 50px 50px' }} className="d-flex flex-column justify-content-center align-items-center" role="search">
                     <input  className="form-control me-2" type="search" placeholder="Search" aria-label="Search" value={search} onChange={handleSearch}/>
-                    <button className="btn btn-outline-success" type="submit">Search</button>
+                    <button style={{ width: '25%', margin:'10px' }} className="btn btn-outline-success" type="submit">Search</button>
                 </form>
                 <h1 className="text-center" style={{ margin: '35px 0px', marginTop: '90px' }}>HowToAbroad - Top {category} Trends in US</h1>
                 {loading && <Spinner />}
